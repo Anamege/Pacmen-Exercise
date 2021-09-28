@@ -1,7 +1,7 @@
 var pos = 0;
 const pacArray = [
   ["./Pictures/PacMan1.png", "./Pictures/PacMan2.png"],
-  ["./images/PacMan3.png", "./images/PacMan4.png"],
+  [img src="PacMan3.png", ./images/PacMan3.png", "./images/PacMan4.png"],
 ];
 var direction = 0;
 const pacMen = [];
